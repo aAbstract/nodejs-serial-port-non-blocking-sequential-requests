@@ -1,0 +1,15 @@
+{
+  "name": "node_serial_port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^13.0.0"
+  }
+}
